@@ -1,2 +1,3 @@
 # toy_ds_project
-*Creation date: Feb 7, 2023*
+*Creation Date: Feb 7, 2023*
+Author: Jane Hsu
